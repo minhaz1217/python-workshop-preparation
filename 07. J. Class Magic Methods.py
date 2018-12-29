@@ -51,7 +51,6 @@ class Farm:
     #     self.fishes = other
     #     return Farm(self.cows , self.fishes)
 
-
 TokisFarm = Farm(2,3)
 JannatsFarm = Farm(2,4)
 if(TokisFarm == JannatsFarm):
@@ -68,3 +67,5 @@ megaFarm =megaFarm+ 5
 megaFarm.details()
 megaFarm = TokisFarm + JannatsFarm
 megaFarm.details()
+
+print(dir(Farm()))
