@@ -8,7 +8,6 @@ class Person:
     def doMath(self, a, b):
         print("The output is: ", a+b)
 
-
 person1= Person()
 
 person1.walking()

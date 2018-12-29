@@ -1,5 +1,20 @@
 #Class members
 
+
+class Person:
+    name = "N/A"
+    age = 0
+    def details(self):
+        print("My name is ", self.name, " and my age is", self.age)
+
+obj1 = Person()
+obj1.details()
+obj1.name = "Zibraj"
+obj1.age = 19
+obj1.details()
+
+
+
 class Person:
     def eating(self):
         print("I'm eating")

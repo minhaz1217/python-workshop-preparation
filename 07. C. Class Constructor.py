@@ -33,6 +33,11 @@ class Person:
     def setPerson(self, name, age):
         self.name = name
         self.age = age
+    def __del__(self):
+        print("Destructor Called for ", self.name)
 
 person2 = Person("Azimov", 35)
 person2.tell()
+
+person3 = Person("Solaris", 29)
+person3.tell()
