@@ -1,0 +1,33 @@
+
+Uncompleted:
+Function overriding
+Class multiple inheritance conflicting methods
+os module
+handling file
+importing class from outside file
+error handling
+comprehension
+
+
+Completed:
+Input
+Output
+Comments
+Variables
+Operators
+Condiotions (if else)
+Nested conditions
+While Loops
+for loop with range and with in
+for loop with else
+Functions
+Function with parameter
+        with return
+        in single line
+        fixing problem with function local variables
+Class
+Module
+String
+List
+Tuple
+Dictionary
