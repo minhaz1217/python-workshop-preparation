@@ -5,7 +5,6 @@ Class multiple inheritance conflicting methods
 os module
 handling file
 importing class from outside file
-error handling
 comprehension
 
 
@@ -32,3 +31,4 @@ List
 Tuple
 Dictionary
 set
+error handling
