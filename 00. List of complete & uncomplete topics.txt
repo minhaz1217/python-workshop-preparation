@@ -3,7 +3,6 @@ Uncompleted:
 Function overriding
 Class multiple inheritance conflicting methods
 os module
-handling file
 importing class from outside file
 comprehension
 
@@ -32,3 +31,4 @@ Tuple
 Dictionary
 set
 error handling
+handling file
