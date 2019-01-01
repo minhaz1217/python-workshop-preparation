@@ -2,7 +2,6 @@
 inclomplete:
 Class multiple inheritance conflicting methods
 os module
-importing class from outside file
 comprehension
 details about type conversion
 
@@ -32,3 +31,4 @@ set
 error handling
 handling file
 function overloading
+importing outside file
