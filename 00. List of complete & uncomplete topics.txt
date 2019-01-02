@@ -4,6 +4,8 @@ Class multiple inheritance conflicting methods
 os module
 comprehension
 details about type conversion
+pass by reference, pass by value
+
 
 Completed:
 Input
